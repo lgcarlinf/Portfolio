@@ -118,7 +118,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 60vh;
-    background: url('../img/code.jpg');
+    background: url('../img/code.jpg'); 
     background-size: contain;
     background-attachment: fixed;
     
