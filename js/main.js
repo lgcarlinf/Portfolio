@@ -16,7 +16,7 @@ btnMenu.addEventListener('click', function(e){
 })
 
 menuResponsive.addEventListener('click', function(e){
-    toggleMenu();
+    toggleMenu();  
    
 })
 
