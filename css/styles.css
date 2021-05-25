@@ -415,6 +415,12 @@ backdrop-filter: blur( 8.5px );
     border-radius: .3rem;
     
 }
+
+.show-page:hover{
+    background-color: var(--color-secundary);
+    
+}
+
 .container-proyecto i{
     padding-right: 2px;
 }
