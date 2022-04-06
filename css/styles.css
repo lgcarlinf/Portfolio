@@ -335,6 +335,11 @@ backdrop-filter: blur( 8.5px );
     color: var(--color-secundary);
 }
 
+.icon {
+    height: 60px;
+    color: var(--color-secundary);
+}
+
 .cards-coming-skills{
     min-width: 7rem;
     display: flex;

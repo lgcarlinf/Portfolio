@@ -2,4 +2,4 @@
 
 -Link:  
 [Portfolio](https://lgcarlinf.github.io/Portafolio/)  
-
+![](img/preview.png)
