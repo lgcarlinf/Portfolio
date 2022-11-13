@@ -1,5 +1,5 @@
 # Portafolio 2020
 
 -Link:  
-[Portfolio](https://lgcarlinf.github.io/Portafolio/)  
+[Portfolio](https://portfolioluiggy.netlify.app/)  
 ![](img/preview.png)
